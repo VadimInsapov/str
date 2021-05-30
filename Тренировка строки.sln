@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тренировка строки", "Тренировка строки.csproj", "{39941B59-5274-4BF4-9E6E-1B00D76B0F49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39941B59-5274-4BF4-9E6E-1B00D76B0F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39941B59-5274-4BF4-9E6E-1B00D76B0F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39941B59-5274-4BF4-9E6E-1B00D76B0F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39941B59-5274-4BF4-9E6E-1B00D76B0F49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B48373A3-131A-44BA-A5E3-AB596793AF41}
+	EndGlobalSection
+EndGlobal
